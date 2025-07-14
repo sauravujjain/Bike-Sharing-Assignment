@@ -1,5 +1,6 @@
 # Project Name
-> Outline a brief description of your project.
+Bike Sharing Machine Learning Project
+This project aims to predict the demand for bike sharing based on various factors such as weather conditions, season, and other features. The dataset used for this analysis contains information about bike sharing on different days, including variables like temperature, humidity, windspeed, and the number of bikes rented.
 
 
 ## Table of Contents
